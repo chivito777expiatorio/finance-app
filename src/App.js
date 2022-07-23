@@ -4,7 +4,7 @@ import GlobalStyle from "./globalStyles";
 function App() {
   return (
     <div className="App">
-TYRY
+TYRYrywerywr
     </div>
   );
 }
